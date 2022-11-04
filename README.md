@@ -105,6 +105,7 @@ dan hasil runningannya akan seperti gambar berikut:
 
 ![gambar](gambar/pic4.png)
 ![gambar](gambar/pic4,4.png)
+
 ## latihan 5
 
 ![gambar](gambar/pic5.png)
@@ -137,7 +138,7 @@ while r !=0:
 
     if r > f:
         f = r
-    r = int(input("masukan Bialangan: "))
+    r = int(input("masukan Bilangan: "))
     
     if r == 0:
         break
