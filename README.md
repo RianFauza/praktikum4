@@ -128,10 +128,10 @@ setelah running masukan bilangan dari yang terbesar hingga terkecil, hasil akhir
 pertama-tama kita print dan masukan nama kita 
 lalu masukan n, =, dan 1, lalu enter dan masukan a, =, dan 0. jadi keliahatnnya seprti ini:
 ```
-n=1
-a=0
+r=1
+f=0
 ```
-fungsi nya adalah untuk menentukan nilai terbesar, lalu enter dan tambahkan while r, !, =, 0, dan :. setelah itu enter, nah pas saat enter pastikan tidak sejajar dengan while, setelah itu tambahkan if r, >, f, dan : enter lalu tambahkan f = r, kemudian enter tambahkan r dan = lalu input ketik masukan bilangan gunakan (, :, dan " sebagai syntax nya, lalu lanjut enter dan tambahkan if, n, ==, 0, dan : enter dan masukan break tidak sejajar dengan if, enter masukan prinan sperti sbmnya bedanya tambahkan f. jadi keliatannya seperti ini:
+fungsi nya adalah untuk menentukan nilai terbesar, lalu enter dan tambahkan while r, !, =, 0, dan :. setelah itu enter, nah pas saat enter pastikan tidak sejajar dengan while, setelah itu tambahkan if r, >, f, dan : enter lalu tambahkan f = r, kemudian enter tambahkan r dan = lalu input ketik masukan bilangan gunakan (, :, dan " sebagai syntax nya, lalu lanjut enter dan tambahkan if, r, ==, 0, dan : enter dan masukan break tidak sejajar dengan if, enter masukan prinan sperti sbmnya bedanya tambahkan f. jadi keliatannya seperti ini:
 ```
 while r !=0:
 
@@ -156,3 +156,4 @@ setelah running dari hasil codingan di atas lalu masukan bilangan terbesar lalu 
 masukkan codingan sperti diatas adalah untuk menghitung laba dari bulan kesatu hingga ke 8
 
 ![gambar](gambar/pic7,7.png)
+
