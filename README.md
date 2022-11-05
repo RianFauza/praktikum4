@@ -127,7 +127,7 @@ setelah running masukan bilangan dari yang terbesar hingga terkecil, hasil akhir
 ![gambar](gambar/pic6.png)
 
 pertama-tama kita print dan masukan nama kita 
-lalu masukan n, =, dan 1, lalu enter dan masukan a, =, dan 0. jadi keliahatnnya seprti ini:
+lalu masukan r, =, dan 1, lalu enter dan masukan a, =, dan 0. jadi keliahatnnya seprti ini:
 ```
 r=1
 f=0
